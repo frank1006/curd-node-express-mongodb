@@ -1,0 +1,20 @@
+{
+  "name": "curd-node-express-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": ["Node.js", "Express", "MongoDB", "CRUD"],
+  "author": "Frank1006",
+  "license": "ISC",
+  "description": "Node.js CRUD with Express and MongoDB",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
